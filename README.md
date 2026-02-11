@@ -1,6 +1,6 @@
 # 🙋🏻‍♀️ Hola, Soy Arantxa 
 
-🎓 Data Analyst en formación en Factoría F5
+🎓 Data Analyst en formación (Factoría F5)
 
 📊 Aprendiendo a transformar datos en decisiones
 
