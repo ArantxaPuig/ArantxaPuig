@@ -42,7 +42,7 @@ Construir criterio con cada proyecto.
 
 ## 🚀 Qué encontrarás aquí
 
-Proyectos erales en formación, experimentos con datos y procesos documentados.
+Proyectos reales en formación, experimentos con datos y procesos documentados.
 
 Nada perfecto.  
 Todo intencional.
