@@ -1,26 +1,57 @@
-# ![ 💜 Hola, Soy Arantxa](https://img.shiields.io/badge/Arantxa%Puig-8a2be?style=for-the-badge&logoColor=white)
 
+![Banner](banner-git.jpg)
+
+# Learning the rules. Building my own. 💜
 
 Amante del café ☕, los libros 📚 y los perros 🐶
 
 
 
-## 🚀 En que estoy trabajando
+## 🧠 Sobre mi
+No colecciono cursos.   
+Colecciono preguntas.
 
-- Git y GitHub
+Estoy formándome como Data Analyst, pero más allá de aprender herramientas, me interesa entender cómo los datos influyen en decisiones reales.
 
-- Python para análisis de datos 
+Porque los números no hablan solos.   
+Hay que saber escucharlos.
 
-- Storytelling con datos 
+---
+## 📊 Qué estoy aprendiendo
 
+- Git & GitHub para documentación y proyectos
+- Python 
+- HTML
+- Google Sheets 
+- Data Storytelling
 
+*Todo mientras pruebo, me equivoco y ajusto... así es como se aprende de verdad*.
 
+--- 
 
-## 🎯 Mi objetivo
+## 🎯 Mi forma de trabajar
 
-Desarrollarme como Data Analyst con visión estratégica, combinando análisis técnico y capacidad de comunicacón para generar impacto
+Curiosidad amplia.
+Enfoque analítico.
+Aprender de los errores.
+Construir criterio con cada proyecto.
 
+**Creo en el aprendizaje constante**
 
+---
 
-### 🧠 *En constante aprendizaje. Construyendo proyecto a proyecto.*
+## 🚀 Qué encontrarás aquí
+
+Proyectos erales en formación, experimentos con datos y procesos documentados.
+
+Nada perfecto.  
+Todo intencional.
+
+----
+
+## 📌 En progreso...
+
+Este perfil crece conmigo.
+
+### ✨ *Si hoy estoy aprendiendo reglas. mañana estaré construyendo las mías*
 
