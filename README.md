@@ -1,5 +1,3 @@
-# 🙋🏻‍♀️ Hola, Soy Arantxa 
-
 # ![ 💜 Hola, Soy Arantxa](https://img.shiields.io/badge/Arantxa%Puig-8a2be?style=for-the-badge&logoColor=white)
 
 
