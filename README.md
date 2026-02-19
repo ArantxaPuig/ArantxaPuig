@@ -1,10 +1,9 @@
 # 🙋🏻‍♀️ Hola, Soy Arantxa 
 
-🎓 Data Analyst en formación (Factoría F5)
+# ![ 💜 Hola, Soy Arantxa](https://img.shiields.io/badge/Arantxa%Puig-8a2be?style=for-the-badge&logoColor=white)
 
-📊 Aprendiendo a transformar datos en decisiones
 
-💡 Interesada en Marketing Digital y Storytelling con datos
+Amante del café ☕, los libros 📚 y los perros 🐶
 
 
 
