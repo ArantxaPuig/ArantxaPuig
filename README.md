@@ -48,13 +48,13 @@ Construir criterio con cada proyecto.
 
 Proyectos reales en formación, experimentos con datos y procesos documentados.
 
-[![Apuntes](https://img.shields.io/badge/Apuntes-Documentación-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/ArantxaPuig/apuntes)
+[![Apuntes](https://img.shields.io/badge/Apuntes-Documentación-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/ArantxaPuig/bootcamp-apuntes.git)
 
-[![Píldora Data Storytelling](https://img.shields.io/badge/Píldora-Data_Storytelling-9B59B6?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/ArantxaPuig/pildora-datastorytelling)
+[![Píldora Data Storytelling](https://img.shields.io/badge/Píldora-Data_Storytelling-9B59B6?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/ArantxaPuig/pildora-data-storytelling.git)
 
-[![Entregable 1 Git](https://img.shields.io/badge/Entregable_1-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ArantxaPuig/entregable-1-git)
+[![Entregable 1 Git](https://img.shields.io/badge/Entregable_1-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ArantxaPuig/Entrega1-Git.git)
 
-[![Mi Primer Repositorio](https://img.shields.io/badge/Mi_Primer-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArantxaPuig/primer-repositorio)
+[![Mi Primer Repositorio](https://img.shields.io/badge/Mi_Primer-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArantxaPuig/Mi-primer-repositorio-.git)
 
 Nada perfecto.  
 Todo intencional.
