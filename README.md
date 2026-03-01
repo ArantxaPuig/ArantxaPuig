@@ -19,11 +19,15 @@ Hay que saber escucharlos.
 ---
 ## 📊 Qué estoy aprendiendo
 
-- Git & GitHub para documentación y proyectos
-- Python 
-- HTML
-- Google Sheets 
-- Data Storytelling
+### 🚀 Stack & Skills   
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-5E5DF0?style=for-the-badge&logo=bookstack&logoColor=white)
 
 *Todo mientras pruebo, me equivoco y ajusto... así es como se aprende de verdad*.
 
